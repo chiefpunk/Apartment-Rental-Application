@@ -8,8 +8,6 @@ An apartment rental application which allows property owners and proposed tenant
 
 ![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Application/blob/master/screenshots/home.png "Homepage screenshot")
 
-![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Application/blob/master/screenshots/dashboard.PNG "Dashboard screenshott")
-
 ![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Application/blob/master/screenshots/search_results.png "SearchResult screenshott")
 
 ## Technologies
