@@ -6,11 +6,11 @@ An apartment rental application which allows property owners and proposed tenant
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 
-![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Platform/blob/master/screenshots/home.png "Homepage screenshot")
+![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Application/blob/master/screenshots/home.png "Homepage screenshot")
 
-![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Platform/blob/master/screenshots/dashboard.PNG "Dashboard screenshott")
+![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Application/blob/master/screenshots/dashboard.PNG "Dashboard screenshott")
 
-![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Platform/blob/master/screenshots/search_results.png "SearchResult screenshott")
+![alt text](https://github.com/RisingStar-Web/Apartment-Rental-Application/blob/master/screenshots/search_results.png "SearchResult screenshott")
 
 ## Technologies
 - :boom: Node
